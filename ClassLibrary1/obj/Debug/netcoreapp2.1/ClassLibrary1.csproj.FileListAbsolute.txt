@@ -1,0 +1,9 @@
+D:\tree\ClassLibrary1\ClassLibrary1\bin\Debug\netcoreapp2.1\ClassLibrary1.deps.json
+D:\tree\ClassLibrary1\ClassLibrary1\bin\Debug\netcoreapp2.1\ClassLibrary1.dll
+D:\tree\ClassLibrary1\ClassLibrary1\bin\Debug\netcoreapp2.1\ClassLibrary1.pdb
+D:\tree\ClassLibrary1\ClassLibrary1\obj\Debug\netcoreapp2.1\ClassLibrary1.csprojAssemblyReference.cache
+D:\tree\ClassLibrary1\ClassLibrary1\obj\Debug\netcoreapp2.1\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\tree\ClassLibrary1\ClassLibrary1\obj\Debug\netcoreapp2.1\ClassLibrary1.AssemblyInfoInputs.cache
+D:\tree\ClassLibrary1\ClassLibrary1\obj\Debug\netcoreapp2.1\ClassLibrary1.AssemblyInfo.cs
+D:\tree\ClassLibrary1\ClassLibrary1\obj\Debug\netcoreapp2.1\ClassLibrary1.dll
+D:\tree\ClassLibrary1\ClassLibrary1\obj\Debug\netcoreapp2.1\ClassLibrary1.pdb
